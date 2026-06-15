@@ -18,3 +18,9 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+# build.yaml
+include:
+  - board: nice_nano_v2
+    shield: sofle_left
+  - board: nice_nano_v2
+    shield: sofle_right
